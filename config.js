@@ -67,7 +67,7 @@ global.baileys = "@whiskeysockets/baileys"
 global.apis = 'https://delirius-apiofc.vercel.app'
 
 global.APIs = { 
-lolhuman: { url: 'https://api.lolhuman.xyz/api', key: 'GataDiosV3' },
+lolhuman: { url: 'https://api.lolhuman.xyz/api', key: '8d43e722f51d0c1818f1c9de14' },
 stellar: { url: 'https://api.stellarwa.xyz', key: null },
 skizo: { url: 'https://skizo.tech/api', key: 'GataDios' },
 alyachan: { url: 'https://api.alyachan.dev/api', key: null }, 
@@ -402,26 +402,7 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363203805910750@newsletter',
-ch2: '120363317213148300@newsletter',
-ch3: '120363301598733462@newsletter',
-ch4: '120363418207293803@newsletter',
-ch5: '120363343811229130@newsletter',
-ch6: '120363307551724976@newsletter',
-ch7: '120363370415738881@newsletter',
-ch8: '120363374372683775@newsletter',
-ch9: '120363190430436554@newsletter',
-ch10: '120363323286489957@newsletter',
-ch11: '120363263466636910@newsletter',
-ch12: '120363323882134704@newsletter',
-ch13: '120363347440552857@newsletter',
-ch14: '120363403479934106@newsletter',
-ch15: '120363419262674739@newsletter',
-ch16: '120363167110224268@newsletter',
-ch17: '120363302472386010@newsletter',
-ch18: '120363305941657414@newsletter',
-ch19: '120363336642332098@newsletter',
-ch20: '120363385983031660@newsletter',
+ch1: '',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
